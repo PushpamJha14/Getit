@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+elasticsearch
+pydantic
+python-jose
+python-dotenv
+pytest
